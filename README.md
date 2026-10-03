@@ -8,4 +8,4 @@ Biblioteca (dominio Libro-Préstamo), usando RabbitMQ.
 - Pendiente Parte 2 — Implementación (entrega 05/10)
 
 ## Documentación
-Ver [`docs/diseno-rabbitmq-biblioteca.docx`](docs/diseno-rabbitmq-biblioteca.docx)
+Ver [`docs/diseno-rabbitmq-biblioteca.docx`](docs/diseno-rabbitmq-biblioteca.md)
