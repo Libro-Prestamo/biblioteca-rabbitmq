@@ -1,0 +1,14 @@
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Maven
+target/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Variables locales
+.env
